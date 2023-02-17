@@ -1,3 +1,5 @@
+## To be deprecated. Please refer to [https://github.com/dwiferrer/chat-messaging-service](https://github.com/dwiferrer/chat-messaging-service) for the updated repository.
+
 # Chat Messaging Service
 
 Developed as a technical task requirement for Dev Centre House.

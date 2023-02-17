@@ -1,4 +1,6 @@
-## To be deprecated. Please refer to [https://github.com/dwiferrer/chat-messaging-service](https://github.com/dwiferrer/chat-messaging-service) for the updated repository.
+## :exclamation: To be deprecated. :exclamation:
+
+## :red_circle: Please refer to [https://github.com/dwiferrer/chat-messaging-service](https://github.com/dwiferrer/chat-messaging-service) for the updated repository. :red_circle:
 
 # Chat Messaging Service
 
